@@ -44,6 +44,7 @@ This project was inspired by comparisons of AI-generated designs and further ref
 - **Google Fonts**
   - *Mountains of Christmas* – Festive typography  
   - *Inter* – Clean, modern readability
+  - *Sarabun*  
 
 ---
 
