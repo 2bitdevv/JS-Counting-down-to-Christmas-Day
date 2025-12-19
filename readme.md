@@ -3,8 +3,9 @@
 A **beautiful, modern, and interactive Christmas countdown landing page**  
 featuring a **Midnight Blue aesthetic**, dynamic snowfall animations, and **glassmorphism UI** elements.
 
-This project was inspired by comparisons of AI-generated designs and further refined with **custom CSS & JavaScript** to achieve a premium, polished feel.
-
+Inspired by a group of programmers in Thailand...
+--
+**preview : [christmas-day](https://christmas-day-one.vercel.app/)** 👈
 ---
 
 ## ✨ Features
@@ -52,4 +53,4 @@ This project was inspired by comparisons of AI-generated designs and further ref
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/christmas-landing-page.git
+git clone https://github.com/2bitdevv/JS-Counting-down-to-Christmas-Day.git
