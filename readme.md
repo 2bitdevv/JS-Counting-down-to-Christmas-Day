@@ -4,6 +4,7 @@ A **beautiful, modern, and interactive Christmas countdown landing page**
 featuring a **Midnight Blue aesthetic**, dynamic snowfall animations, and **glassmorphism UI** elements.
 
 Inspired by a group of programmers in Thailand...
+--
 **preview : [christmas-day](https://christmas-day-one.vercel.app/)**
 ---
 
