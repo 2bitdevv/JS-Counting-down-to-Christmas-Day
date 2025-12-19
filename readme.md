@@ -52,4 +52,4 @@ This project was inspired by comparisons of AI-generated designs and further ref
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/christmas-landing-page.git
+git clone https://github.com/2bitdevv/JS-Counting-down-to-Christmas-Day.git
